@@ -1,4 +1,4 @@
-# Product-Based Capstone Suara Kita - Create a Mobile Application for Online Voting 👋
+# Product-Based Capstone "Suara Kita" - Mobile Election System Using Facial Recognition 👋
 # C23-PS001
 
 🧙 Mentors :
