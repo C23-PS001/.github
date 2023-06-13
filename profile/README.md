@@ -22,7 +22,7 @@ Indonesia as a democratic country has 275 million people and there will be appro
 ### Machine Learning
 1. [Suara-Kita-ML-Testing-Training-Model](https://github.com/C23-PS001/ML-RaKit). Machine learning training model includes jupyter notebook, h5 file, and python.
 2. [Suara-Kita-ML-FlaskAPI-OCR](https://github.com/C23-PS001/flask-ocr). Machine learning OCR models with Flask API connected to gcloud storage.
-3. [Suara-Kita-ML-FlaskAPI-SiameseNetwork](https://github.com/C23-PS001/flask-siamese). Machine learning Siamese model with Flask API connected to gcloud storage and database
+3. [Suara-Kita-ML-FlaskAPI-SiameseNetwork](https://github.com/C23-PS001/flask-siamese). Machine learning Siamese model with Flask API connected to gcloud storage and database deployed using Google Cloud Run.
 
 ### Cloud Computing
 [Suara-Kita-API](https://github.com/C23-PS001/Suara-Kita-API). API Server for login, register, and voting of Suara Kita Application.
